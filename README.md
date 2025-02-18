@@ -1,1 +1,1 @@
-# FullStack---Rocketseat
+# FullStack-Rocketseat
